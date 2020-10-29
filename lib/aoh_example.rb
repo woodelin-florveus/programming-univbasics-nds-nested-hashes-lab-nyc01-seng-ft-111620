@@ -31,7 +31,7 @@ def literal_aoh
   #   ]
   # ]
 
-  all[all]
+  new_arr = [all]
 
 end
 
