@@ -32,7 +32,7 @@ def literal_aoh
   # ]
 
   new_arr = [all]
-
+  new_arr
 end
 
 def aoh_lookup(aoh, row, key)
