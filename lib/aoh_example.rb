@@ -31,6 +31,8 @@ def literal_aoh
     ]
   ]
 
+  new
+
 end
 
 def aoh_lookup(aoh, row, key)
